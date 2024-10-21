@@ -18,7 +18,7 @@ The website is developed using JavaScript, React.js, Node.js and Tailwind CSS an
 - [VSCode](https://code.visualstudio.com/) - Code editor used for development
 - [React](https://reactjs.org/) - Front-end JavaScript library
 - [Tailwind CSS](https://tailwindcss.com/) - For styling
-- [Netlify](https://portfolioofekrem.netlify.app/) - Deployed and hosted on Netlify
+- [Netlify](https://portfolioofekrem.netlify.app/) - Deployed and hosted on Netlify (please click on the Netlify to go to my website)
 
 ## 📷 Screenshots
 ![image](https://github.com/user-attachments/assets/11621bf9-a5ee-4bed-82c6-ab905a63d472)
